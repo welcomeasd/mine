@@ -7,6 +7,7 @@
 //
 
 #import "PPPViewController.h"
+#import <kkkkViewController.h>
 
 @interface PPPViewController ()
 
@@ -17,6 +18,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    kkkkViewController *kk = [kkkkViewController new];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 

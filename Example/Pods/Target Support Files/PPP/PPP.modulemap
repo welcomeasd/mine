@@ -1,0 +1,6 @@
+framework module PPP {
+  umbrella header "PPP-umbrella.h"
+
+  export *
+  module * { export * }
+}
